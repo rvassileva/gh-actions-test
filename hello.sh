@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Script that outputs "Hello"
 
-echo 'This is a test'
+echo 'This is test 1'
